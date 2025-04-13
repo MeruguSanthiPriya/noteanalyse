@@ -1,4 +1,5 @@
 streamlit
+nbformat
 pandas
 numpy
 scikit-learn
